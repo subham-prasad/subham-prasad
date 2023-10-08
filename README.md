@@ -1,4 +1,4 @@
-##👋 Hi, I’m @subham-prasad
+- 👋 Hi, I’m @subham-prasad
 - 👀 I’m interested in Web Development, UI/UX Designing
 - 🌱 I’m currently learning MERN
 
