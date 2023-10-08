@@ -1,7 +1,7 @@
 ##👋 Hi, I’m @subham-prasad
 - 👀 I’m interested in Web Development, UI/UX Designing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning MERN
+
 - 📫 How to reach me www.subhamprasad.in / shubhamprasad2000@gmail.com
 
 <!---
